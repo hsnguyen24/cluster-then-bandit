@@ -1,2 +1,1 @@
-# clustern-then-bandit
-Cluster-then-Bandit
+# Cluster-then-Bandit
